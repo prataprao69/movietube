@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movietube/static/css/main.f6850452.css",
+    "main.js": "/movietube/static/js/main.834f61e3.js",
+    "static/js/156.ad492501.chunk.js": "/movietube/static/js/156.ad492501.chunk.js",
+    "index.html": "/movietube/index.html",
+    "main.f6850452.css.map": "/movietube/static/css/main.f6850452.css.map",
+    "main.834f61e3.js.map": "/movietube/static/js/main.834f61e3.js.map",
+    "156.ad492501.chunk.js.map": "/movietube/static/js/156.ad492501.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6850452.css",
+    "static/js/main.834f61e3.js"
+  ]
+}
